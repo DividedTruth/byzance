@@ -1,0 +1,1 @@
+var journal = ["Chalk Couture"];
